@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/Robofriendapp/static/css/main.6fcc2342.chunk.css",
-    "main.js": "/Robofriendapp/static/js/main.4a14c12b.chunk.js",
-    "main.js.map": "/Robofriendapp/static/js/main.4a14c12b.chunk.js.map",
+    "main.css": "/Robofriendapp/static/css/main.9b1bbedd.chunk.css",
+    "main.js": "/Robofriendapp/static/js/main.3ef718c4.chunk.js",
+    "main.js.map": "/Robofriendapp/static/js/main.3ef718c4.chunk.js.map",
     "runtime-main.js": "/Robofriendapp/static/js/runtime-main.706e9507.js",
     "runtime-main.js.map": "/Robofriendapp/static/js/runtime-main.706e9507.js.map",
     "static/css/2.038644eb.chunk.css": "/Robofriendapp/static/css/2.038644eb.chunk.css",
     "static/js/2.ba3d2b0c.chunk.js": "/Robofriendapp/static/js/2.ba3d2b0c.chunk.js",
     "static/js/2.ba3d2b0c.chunk.js.map": "/Robofriendapp/static/js/2.ba3d2b0c.chunk.js.map",
     "index.html": "/Robofriendapp/index.html",
-    "precache-manifest.8ef9b8d2b1dfa0af1b5ee44f1a0c2b8a.js": "/Robofriendapp/precache-manifest.8ef9b8d2b1dfa0af1b5ee44f1a0c2b8a.js",
+    "precache-manifest.06ee62efd7a734716a03109712cfc6db.js": "/Robofriendapp/precache-manifest.06ee62efd7a734716a03109712cfc6db.js",
     "service-worker.js": "/Robofriendapp/service-worker.js",
     "static/css/2.038644eb.chunk.css.map": "/Robofriendapp/static/css/2.038644eb.chunk.css.map",
-    "static/css/main.6fcc2342.chunk.css.map": "/Robofriendapp/static/css/main.6fcc2342.chunk.css.map",
+    "static/css/main.9b1bbedd.chunk.css.map": "/Robofriendapp/static/css/main.9b1bbedd.chunk.css.map",
     "static/js/2.ba3d2b0c.chunk.js.LICENSE.txt": "/Robofriendapp/static/js/2.ba3d2b0c.chunk.js.LICENSE.txt",
     "static/media/App.css": "/Robofriendapp/static/media/SEGA.12a3db8b.woff"
   },
@@ -20,7 +20,7 @@
     "static/js/runtime-main.706e9507.js",
     "static/css/2.038644eb.chunk.css",
     "static/js/2.ba3d2b0c.chunk.js",
-    "static/css/main.6fcc2342.chunk.css",
-    "static/js/main.4a14c12b.chunk.js"
+    "static/css/main.9b1bbedd.chunk.css",
+    "static/js/main.3ef718c4.chunk.js"
   ]
 }
