@@ -10,7 +10,7 @@ export class Header extends Component {
 
     return (
       <div>
-        <h1 className="f1">RoboFriend</h1>;
+        <h1 className="f1">RoboFriend</h1>
         <CounterButton />
       </div>
     );
